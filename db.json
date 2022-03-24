@@ -42,5 +42,9 @@
         "desc":"Gjord på månadens mjöl.",
         "price":39
       }
-    ]
+    ],
+  "order": {
+    eta: 10,
+    orderNr: "AB1648117271457Y" 
+  }
 }
