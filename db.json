@@ -44,7 +44,7 @@
       }
     ],
   "order": {
-    eta: 10,
-    orderNr: "AB1648117271457Y" 
+    "eta": 10,
+    "orderNr": "AB1648117271457Y" 
   }
 }
